@@ -1,0 +1,4 @@
+# Netty Configurations
+server:
+  port: 8081
+
