@@ -1,7 +1,7 @@
 package br.com.grpc;
 
 import br.com.grpc.client.LogFunctionClient;
-import br.com.grpc.logfunction.JsonAvroMai;
+import br.com.santander.mai.logfunction.JsonAvroMai;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

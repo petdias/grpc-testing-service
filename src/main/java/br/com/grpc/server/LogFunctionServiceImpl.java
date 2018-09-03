@@ -1,8 +1,8 @@
 package br.com.grpc.server;
 
-import br.com.grpc.logfunction.Greeting;
-import br.com.grpc.logfunction.JsonAvroMai;
-import br.com.grpc.logfunction.LogFunctionServiceGrpc;
+import br.com.santander.mai.logfunction.Greeting;
+import br.com.santander.mai.logfunction.JsonAvroMai;
+import br.com.santander.mai.logfunction.LogFunctionServiceGrpc;
 import io.grpc.stub.StreamObserver;
 import org.lognet.springboot.grpc.GRpcService;
 import org.slf4j.Logger;

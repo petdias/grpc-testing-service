@@ -1,8 +1,8 @@
 package br.com.grpc.client;
 
-import br.com.grpc.logfunction.Greeting;
-import br.com.grpc.logfunction.JsonAvroMai;
-import br.com.grpc.logfunction.LogFunctionServiceGrpc;
+import br.com.santander.mai.logfunction.Greeting;
+import br.com.santander.mai.logfunction.JsonAvroMai;
+import br.com.santander.mai.logfunction.LogFunctionServiceGrpc;
 import io.grpc.ManagedChannel;
 import io.grpc.ManagedChannelBuilder;
 import org.slf4j.Logger;
